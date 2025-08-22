@@ -1,0 +1,38 @@
+{
+  "name": "x-modern-dark",
+  "displayName": "X Modern Dark",
+  "description": "A VS Code theme inspired by X.com (Twitter) modern UI dark mode.",
+  "version": "0.0.1",
+  "publisher": "local",
+  "engines": {
+    "vscode": "^1.74.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "X Modern Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/x-modern-dark-color-theme.json"
+      }
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://example.com/not-applicable"
+  },
+  "license": "MIT",
+  "keywords": [
+    "theme",
+    "dark",
+    "x",
+    "twitter",
+    "modern"
+  ],
+  "homepage": "https://example.com/not-applicable",
+  "bugs": {
+    "url": "https://example.com/not-applicable"
+  }
+}
